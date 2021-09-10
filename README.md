@@ -19,5 +19,5 @@ SQLAlchemy==1.3.18
 Werkzeug==1.0.1
 
 
-###We're using CoinGeckoApi
+### We're using CoinGeckoApi
 pip install pycoingecko
